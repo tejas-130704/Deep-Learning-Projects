@@ -45,8 +45,8 @@ Make sure you have the following installed on your system:
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/tejas-130704/Deep-Learning-Projects/potato-leaf-disease-prediction.git
-   cd potato-leaf-disease-prediction
+   git clone https://github.com/tejas-130704/Deep-Learning-Projects.git
+   cd Potato Leaf Disease Detection
    ```
 
 2. Download the pretrained models from the provided Google Drive link:
