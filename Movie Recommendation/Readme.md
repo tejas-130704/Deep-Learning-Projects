@@ -4,16 +4,15 @@ A **Movie Recommendation System** built using **Streamlit** that recommends movi
 
 ---
 
-![Screenshot 2025-01-21 104213](https://github.com/user-attachments/assets/3b0d823d-3ded-4a6a-9765-82a3de99b2da)
-
-
 ![Screenshot 2025-01-21 104026](https://github.com/user-attachments/assets/3008ca0d-a304-48a2-bce4-ade39940870f)
 
 
 ![Screenshot 2025-01-21 104052](https://github.com/user-attachments/assets/7e95d9ca-1816-4d7d-b226-18b59c7cbea5)
 
+![Screenshot 2025-01-21 104625](https://github.com/user-attachments/assets/19c904a4-c99a-4948-9ffb-646714b9e405)
 
-![Screenshot 2025-01-21 104115](https://github.com/user-attachments/assets/00fe5063-8952-4b70-930d-08e8dfdfb0d4)
+
+![Screenshot 2025-01-21 104705](https://github.com/user-attachments/assets/ff6a6617-3a87-47d9-bb66-136bea6977e8)
 
 
 ---
