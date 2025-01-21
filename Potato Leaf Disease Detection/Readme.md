@@ -29,7 +29,7 @@ Make sure you have the following installed on your system:
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/potato-leaf-disease-prediction.git
+   git clone https://github.com/tejas-130704/potato-leaf-disease-prediction.git
    cd potato-leaf-disease-prediction
    ```
 
