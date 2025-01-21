@@ -26,7 +26,7 @@ A **Movie Recommendation System** built using **Streamlit** that recommends movi
 
 ## Project Structure
 ```
-├── app.py                 # Main Streamlit application
+├── main.py                 # Main Streamlit application
 ├── requirements.txt       # Required Python packages
 ├── Files/                 # Folder with preprocessed files (to be downloaded separately)
 │   ├── reduced_vector.pkl # Dimensionality-reduced vectors for cosine similarity
@@ -46,8 +46,8 @@ Ensure you have the following installed on your system:
 ### Step 1: Clone the Repository
 Clone the project repository from GitHub:
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/tejas-130704/Deep-Learning-Projects.git
+cd Movie Recommendation
 ```
 
 ### Step 2: Download the Required Files
