@@ -4,7 +4,7 @@ from tensorflow.keras.preprocessing.image import load_img, img_to_array
 import numpy as np
 
 # Load the trained model
-MODEL_PATH = "cnn_model4.h5"  # Replace with your model's file path
+MODEL_PATH = "cnn_pretrained_model.h5"  # Replace with your model's file path
 model = load_model(MODEL_PATH)
 
 # Class labels for predictions
@@ -15,7 +15,7 @@ CLASS_LABELS = {
 }
 
 # Function to preprocess the uploaded image
-def preprocess_image(image, target_size=(256, 256)):
+def preprocess_image(image, target_size=(224, 224)):  # Updated target size
     """Preprocess the image for prediction."""
     image = image.resize(target_size)
     image = img_to_array(image) / 255.0  # Normalize the image
